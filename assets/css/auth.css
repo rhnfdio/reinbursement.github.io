@@ -1,6 +1,6 @@
 :root {
-    --ink: #0e1a38; 
-    --blue: #2459d8;     
+    --ink: #0e1a38;
+    --blue: #2459d8;
     --blue-dark: #1a44b0;  
     --line: #d5ddee;      
     --text: #1c2540;
@@ -12,7 +12,6 @@ body {
     color: var(--text);
     background: #f4f6fb;
 }
-
 
 .auth-wrap {
     min-height: 100vh;
